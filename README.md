@@ -1,4 +1,4 @@
-# tu
+# tu    https://www.jsdelivr.com/
 
 这里是利用jsdelivr CDN加速的文件存放地
 
@@ -6,9 +6,6 @@
 
 图床
 
-js CDN加速
+js css CDN加速
 
-css CDN加速
-
-禁止其它文件上传
 
