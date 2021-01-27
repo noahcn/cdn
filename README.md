@@ -7,9 +7,3 @@
 目录：https://cdn.jsdelivr.net/gh/cjl0372/cdn/
 
 单文件：https://cdn.jsdelivr.net/gh/cjl0372/cdn/zfb.jpg
-
-/*
-
-github仓库限制1G容量，单个文件不能超过25MB
-
-*/
