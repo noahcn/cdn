@@ -2,6 +2,8 @@
 
 ## 这里是利用jsdelivr CDN加速的文件存放地
 
+[![](https://data.jsdelivr.com/v1/package/gh/cjl0372/cdn/badge)](https://www.jsdelivr.com/package/gh/cjl0372/cdn)
+
 官网：https://www.jsdelivr.com/
 
 目录：https://cdn.jsdelivr.net/gh/cjl0372/cdn/
@@ -12,4 +14,4 @@ Github仓库大小限制官方说明:https://docs.github.com/cn/github/managing-
 
 ![image](https://pic.baixiongz.com/uploads/2021/01/16/664e1cc1bfe99.jpg)
 
-[![](https://data.jsdelivr.com/v1/package/gh/cjl0372/cdn/badge)](https://www.jsdelivr.com/package/gh/cjl0372/cdn)
+
