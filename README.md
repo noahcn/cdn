@@ -12,6 +12,6 @@
 
 Github仓库大小限制官方说明:https://docs.github.com/cn/github/managing-large-files/what-is-my-disk-quota
 
-![image](https://pic.baixiongz.com/uploads/2021/01/16/664e1cc1bfe99.jpg)
+![image](https://cdn.jsdelivr.net/gh/noahcn/cdn/GiyuuLight.png)
 
 
