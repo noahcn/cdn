@@ -8,10 +8,10 @@
 
 目录：https://cdn.jsdelivr.net/gh/noahcn/cdn/
 
-单文件：https://cdn.jsdelivr.net/gh/noahcn/cdn/zfb.jpg
+单文件：https://cdn.jsdelivr.net/gh/noahcn/cdn/picture/202112231533560.jpg
 
 Github仓库大小限制官方说明:https://docs.github.com/cn/github/managing-large-files/what-is-my-disk-quota
 
-![image](https://cdn.jsdelivr.net/gh/noahcn/cdn/picture/GiyuuLight.png)
+![image](https://cdn.jsdelivr.net/gh/noahcn/cdn/picture/202112231533560.jpg)
 
 
