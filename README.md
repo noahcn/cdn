@@ -1,4 +1,4 @@
-## 这里是利用jsdelivr、staticaly CDN加速的文件存放地
+## 这里是利用Jsdelivr、Staticaly CDN加速的文件存放地
 
 [![](https://data.jsdelivr.com/v1/package/gh/yiktt/cdn/badge)](https://www.jsdelivr.com/package/gh/yiktt/cdn)
 
@@ -6,17 +6,17 @@
 
 ------------
 
-# jsdelivr
+# Jsdelivr
 
-官网：https://www.jsdelivr.com/
+官网：https://www.jsdelivr.com
 
 单文件示例：https://cdn.jsdelivr.net/gh/yiktt/cdn/picture/202112231533560.jpg
 
 jsdelivr cdn 目录：https://cdn.jsdelivr.net/gh/yiktt/cdn/
 
-# staticaly
+# Staticaly
 
-官网：https://statically.io/
+官网：https://statically.io
 
 单文件示例：https://cdn.staticaly.com/gh/yiktt/cdn/master/picture/19XvO7el_400x400.jpg
 
