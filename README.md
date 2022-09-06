@@ -2,9 +2,9 @@
 
 [![](https://data.jsdelivr.com/v1/package/gh/yiktt/cdn/badge)](https://www.jsdelivr.com/package/gh/yiktt/cdn)
 
-------------
-
 > Github仓库大小限制官方说明:[前往查看](https://docs.github.com/cn/github/managing-large-files/what-is-my-disk-quota)
+
+------------
 
 # jsdelivr
 
