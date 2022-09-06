@@ -14,9 +14,9 @@ jsdelivr cdn 目录：https://cdn.jsdelivr.net/gh/yiktt/cdn/
 
 官网：https://statically.io/
 
-------------
-
 单文件示例：https://cdn.staticaly.com/gh/yiktt/cdn/master/picture/19XvO7el_400x400.jpg
+
+------------
 
 Github仓库大小限制官方说明:https://docs.github.com/cn/github/managing-large-files/what-is-my-disk-quota
 
