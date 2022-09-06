@@ -18,7 +18,7 @@ jsdelivr cdn 目录：https://cdn.jsdelivr.net/gh/yiktt/cdn/
 
 ------------
 
-Github仓库大小限制官方说明:https://docs.github.com/cn/github/managing-large-files/what-is-my-disk-quota
+**Github仓库大小限制官方说明:[前往查看]([http://localhost/](https://docs.github.com/cn/github/managing-large-files/what-is-my-disk-quota))**
 
 ![image](https://cdn.jsdelivr.net/gh/yiktt/cdn/picture/202112231533560.jpg)
 
