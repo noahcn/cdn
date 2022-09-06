@@ -4,7 +4,7 @@
 
 ------------
 
-> Github仓库大小限制官方说明:[前往查看]([https://docs.github.com/cn/github/managing-large-files/what-is-my-disk-quota])
+> Github仓库大小限制官方说明:[前往查看](https://docs.github.com/cn/github/managing-large-files/what-is-my-disk-quota)
 
 # jsdelivr
 
